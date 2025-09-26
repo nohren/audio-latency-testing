@@ -1,0 +1,8 @@
+name: honeypot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - python-dotenv
+  - requests
+  - phonenumbers
